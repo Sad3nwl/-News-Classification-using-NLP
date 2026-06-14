@@ -19,9 +19,8 @@ The project includes:
 - NLP
 - Scikit-learn
 - Pandas
-- NumPy
 - Jupyter Notebook
-
+-google colab
 ---
 
 # 📂 Dataset
@@ -35,7 +34,7 @@ The dataset contains news articles and their categories used for training and te
 1. Import Dataset
 2. Clean Text Data
 3. Remove Stopwords
-4. Text Vectorization (TF-IDF)
+4. Text Vectorization (TF-IDF) + BOW
 5. Train Machine Learning Model
 6. Evaluate Model Performance
 
