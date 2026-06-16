@@ -16,7 +16,6 @@ The project includes:
 # 🚀 Technologies Used
 
 - Python
-- NLP
 - Scikit-learn
 - Pandas
 - Jupyter Notebook
@@ -56,4 +55,4 @@ The dataset contains news articles and their categories used for training and te
 # 👩‍💻 Author
 
 Sadeen Abdelalrahman  
-Artificial Intelligence Student
+ 
