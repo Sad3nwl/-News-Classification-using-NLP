@@ -18,8 +18,8 @@ The project includes:
 - Python
 - Scikit-learn
 - Pandas
-- Jupyter Notebook
 -google colab
+ - NLTK
 ---
 
 # 📂 Dataset
