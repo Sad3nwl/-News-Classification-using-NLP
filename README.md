@@ -82,7 +82,7 @@ The goal is to build a reliable text classification model that can understand th
 > *(You can update the numbers after checking your notebook)*
 
 - Best Model: **Logistic Regression**
-- Accuracy: **≈ XX%**
+- Accuracy: **≈ 88%**
 - The model successfully distinguishes between different news categories with good performance.
 
 ___
