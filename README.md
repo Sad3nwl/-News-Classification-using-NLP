@@ -22,7 +22,7 @@ The goal is to build a reliable text classification model that can understand th
 - Feature Extraction using **TF-IDF** and **Bag of Words**
 - Training multiple Machine Learning models
 - Model Evaluation (Accuracy, Confusion Matrix, Classification Report)
-- Ready-to-use classification pipeline
+ 
 
 ---
 
