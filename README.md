@@ -6,7 +6,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
-
 ### 📌 Project Overview
 
 This project is an **end-to-end Natural Language Processing (NLP)** application that automatically classifies news articles into different categories using Machine Learning techniques.
