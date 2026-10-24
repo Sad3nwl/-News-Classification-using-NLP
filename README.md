@@ -37,11 +37,9 @@ The goal is to build a reliable text classification model that can understand th
 ---
 
 ### 📂 Dataset
-
 - **File**: `newsdata01.xls`
 - Contains news articles with their corresponding categories
 - Used for both training and testing the classification models
-
 ---
 
 ### ⚙️ Project Workflow
