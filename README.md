@@ -4,7 +4,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
 ![NLP](https://img.shields.io/badge/NLP-Text%20Classification-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ---
 ### 📌 Project Overview
 
